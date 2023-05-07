@@ -34,6 +34,9 @@ Pay attention to the options it gives you. You can return to the menu without ev
 
 ##Demo coming soon!!
 
+## Screenshots
+![magic-shark option 0](https://user-images.githubusercontent.com/12386911/236691653-0f3089a7-0670-4a9e-bf9e-b705361be2a6.png)
+
 ## Contributions
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to create a pull request or submit an issue on the GitHub repository.
 
