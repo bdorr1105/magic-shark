@@ -29,7 +29,7 @@ Pay attention to the options it gives you. You can return to the menu without ev
 | :point_up:    | Please note that running this script may require administrative privileges, so ensure that you have the necessary permissions before executing it. |
 |---------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|
 
-|:exclamation:  Warning   Modifying firewall settings can have significant security implications. Make sure you understand the consequences of the changes you make and review the generated firewall rule before applying it.|
+|:exclamation:  Warning   This was tested on a pcap that was only 25mb. Use this the same way you would use Wireshark, as in, do not try and use super large pcaps. It may still work, but I can't tell you how long it would take to parse. 
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ##Demo coming soon!!
